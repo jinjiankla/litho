@@ -43,7 +43,7 @@ We can rewrite our sample code to look like this:
     public final int mCounter;
     public final String mValue;
 
-    public Result(int counter, int value) {
+    public Result(int counter, String  value) {
       mCounter = counter;
       mValue = value;
     }
